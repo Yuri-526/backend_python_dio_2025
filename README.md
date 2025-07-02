@@ -15,9 +15,13 @@ Check reference [1] for more details.</p>
 
 ### 2. ATM Machine Refactoring
 
-<p> As you can imagine, and to absolutely no one's surprise, project two is a 
+<p>As you can imagine, and to absolutely no one's surprise, project two is a 
 refactoring of project one, with the addition of the following functions: 
 register user, create new account for registered users and list all registered accounts.</p>
+
+### 3. New Functions...
+
+<p>Updates: Store customer and bank account data in objects instead of dictionaries.</p>
  
 # REFERENCES:
 
